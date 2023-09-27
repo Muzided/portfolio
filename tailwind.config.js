@@ -12,7 +12,7 @@ module.exports = {
         
       },
       colors:{
-        'neonbloue':'#3C93F7'
+        'neonblue':'#3C93F7'
       }
     },
   },

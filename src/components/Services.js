@@ -15,7 +15,7 @@ const Services = () => {
         <div className='mx-auto bg-[#080c0e] '>
             <div className='w-full text-white  bg-world  bg-no-repeat bg-blend-hard-light bg-center bg-fit px-4 py-28 '>
                 <div className='flex flex-col space-y-8 '>
-                    <h1 className='font-bold text-4xl  text-neo text-center   '>Custom Blockchain Development Services</h1>
+                    <h1 className='font-bold text-4xl text-white   text-center   '>Custom <span className='text-neonblue'>Blockchain </span>Development <span className='text-neonblue'>Services </span></h1>
 
                     <p className='text-center text-xl text-white/80 font-semibold text-[#65747b] '>Excel your business in the future with our sterling blockchain solutions</p>
                     <div className='grid grid-cols-2 md:grid-cols-4 gap-8 px-12  '>
