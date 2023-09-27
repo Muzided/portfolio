@@ -10,6 +10,9 @@ module.exports = {
         'world': "url('/src/assets/images/giphy.webp')",
         
         
+      },
+      colors:{
+        'neonbloue':'#3C93F7'
       }
     },
   },

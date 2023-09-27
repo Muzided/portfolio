@@ -19,7 +19,7 @@ const FeedBack = () => {
     slider.scrollLeft = slider.scrollLeft + 400
   }
   return (
-    <div className='bg-[#131313] backdrop-blur-3xl text-white ' ref={ref}>
+    <div className='bg-[#080c0e] backdrop-blur-3xl text-white ' ref={ref}>
       <div className=' py-24 px-16' >
         <div className='flex space-x-16 justify-center items-start py-10 '>
           <div className='font-semibold text-center text-4xl'>
